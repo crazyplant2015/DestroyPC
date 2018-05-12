@@ -1,0 +1,11 @@
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\bin\Debug\PC hacking.exe
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\bin\Debug\PC hacking.pdb
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\bin\Debug\PC hacking.xml
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\PC_hacking.Form1.resources
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\PC_hacking.Resources.resources
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\PC hacking.exe
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\PC hacking.xml
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\PC hacking\PC hacking\obj\x86\Debug\PC hacking.pdb
